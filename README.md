@@ -15,4 +15,4 @@ Each section contains notes about topics ranging from HTML and CSS to JavaScript
 N/A
 
 ## License
-License Please refer to the LICENSE in the repo.
+Please refer to the LICENSE in the repo.
